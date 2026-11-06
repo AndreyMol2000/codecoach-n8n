@@ -1,0 +1,16 @@
+# Local runtime and private n8n state
+**/.runtime/
+**/.local/
+**/.local-runtime.json
+**/node_modules/
+**/.env
+**/.env.*
+*.gguf
+*.sqlite*
+*.log
+*.zip
+*credentials*.json
+*transcript*.json
+
+# Local publication proof
+.publication/
